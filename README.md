@@ -22,7 +22,8 @@ Place it inside the /models folder in the application directory
 The new model will be recognized automatically, no restart required
 Uninstalling
 Since the entire program is self-contained, uninstallation is not really necessary.
-If needed, running uninstall.bat will remove the environment, but you can just delete the folder manually if you prefer.
+If needed, running uninstall.bat will remove t    ![Screenshot 2025-03-05 235414](https://github.com/user-attachments/assets/eb1685a1-452c-4fae-9f98-3e3a9e6a4c7e)
+he environment, but you can just delete the folder manually if you prefer.
 Notes
 Keyword activation works well, but still basic (currently just pressing "Enter" when detected)
 Live Mode is experimental – works but requires fine-tuning for better accuracy
